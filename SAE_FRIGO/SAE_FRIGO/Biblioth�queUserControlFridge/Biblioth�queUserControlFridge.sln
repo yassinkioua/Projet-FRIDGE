@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliothèqueUserControlFridge", "BibliothèqueUserControlFridge\BibliothèqueUserControlFridge.csproj", "{9893560A-DB39-4F8F-9F6F-50CC390D9A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9893560A-DB39-4F8F-9F6F-50CC390D9A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9893560A-DB39-4F8F-9F6F-50CC390D9A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9893560A-DB39-4F8F-9F6F-50CC390D9A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9893560A-DB39-4F8F-9F6F-50CC390D9A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9631BB53-CC96-401A-B0B5-CF4B65D525A2}
+	EndGlobalSection
+EndGlobal

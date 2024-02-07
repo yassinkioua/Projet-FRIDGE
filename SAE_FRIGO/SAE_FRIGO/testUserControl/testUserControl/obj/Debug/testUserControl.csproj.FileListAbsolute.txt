@@ -1,0 +1,12 @@
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\bin\Debug\testUserControl.exe.config
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\bin\Debug\testUserControl.exe
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\bin\Debug\testUserControl.pdb
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.csproj.AssemblyReference.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.barreDeChargement.resources
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.Form1.resources
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.Properties.Resources.resources
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.csproj.GenerateResource.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.exe
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\SAE_FRIGO\SAE_FRIGO\testUserControl\testUserControl\obj\Debug\testUserControl.pdb

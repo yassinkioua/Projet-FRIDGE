@@ -1,0 +1,8 @@
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\bin\Debug\BibliothèqueUserControle.dll
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\bin\Debug\BibliothèqueUserControle.pdb
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.csproj.AssemblyReference.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.UserControl1.resources
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.csproj.GenerateResource.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.csproj.CoreCompileInputs.cache
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.dll
+C:\Users\Tomto\OneDrive\Documents\IUT\SEMESTRE_2\A21\SAEWIN\saewinform\BibliothèqueUserControle\BibliothèqueUserControle\obj\Debug\BibliothèqueUserControle.pdb

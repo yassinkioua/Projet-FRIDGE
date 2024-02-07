@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tomto\\OneDrive\\Documents\\IUT\\SEMESTRE_2\\A21\\SAEWIN\\saewinform\\SAE_FRIGO\\SAE_FRIGO\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tomto\\OneDrive\\Documents\\IUT\\SEMESTRE_2\\A21\\SAEWIN\\saewinform\\SAE_FRIGO\\SAE_FRIGO\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomto\\OneDrive\\Documents\\IUT\\SEMESTRE_2\\A21\\SAEWIN\\saewinform\\SAE_FRIGO\\SAE_FRIGO\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge.csproj",
+        "projectName": "BibliothèqueUserControlFridge",
+        "projectPath": "C:\\Users\\Tomto\\OneDrive\\Documents\\IUT\\SEMESTRE_2\\A21\\SAEWIN\\saewinform\\SAE_FRIGO\\SAE_FRIGO\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge.csproj",
+        "packagesPath": "C:\\Users\\Tomto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomto\\OneDrive\\Documents\\IUT\\SEMESTRE_2\\A21\\SAEWIN\\saewinform\\SAE_FRIGO\\SAE_FRIGO\\BibliothèqueUserControlFridge\\BibliothèqueUserControlFridge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tomto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
