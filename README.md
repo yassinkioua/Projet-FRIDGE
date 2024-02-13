@@ -31,7 +31,7 @@ Ce projet a été réalisé dans le cadre de notre formation en informatique, da
 
 ## Comment exécuter le projet
 
-1. Clonez le dépôt GitLab sur votre machine locale.
+1. Clonez le dépôt GitHub sur votre machine locale.
 2. Ouvrez le projet dans Visual Studio ou tout autre environnement de développement compatible avec C# .NET.
 3. Assurez-vous d'avoir les dépendances nécessaires installées.
 4. Exécutez l'application et explorez les fonctionnalités proposées.
